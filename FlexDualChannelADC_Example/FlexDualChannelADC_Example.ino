@@ -1,6 +1,7 @@
 /********************************************************************************************************
 This example Arduino sketch is meant to work with Anabit's Flex Dual Channel ADC open source reference design
-Product link: 
+
+Product link: https://anabit.co/products/flex-dual-channel-adc
 
 The Flex Dual Channel ADC design uses a single eneded 14 bit 2MSPS ADC that includes a 2 channel MUX that allows you to route signals on either input channel
 to the ADC using a simple digital logic level. 
